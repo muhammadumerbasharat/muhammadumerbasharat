@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on Some Python Projects
 
+- [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
